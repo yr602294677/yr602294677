@@ -1,4 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yr602294677)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yr602294677/yr602294677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on 济南
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on bytedance
+- 🤔 I’m looking for help with myself
+- 💬 Ask me about working
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
